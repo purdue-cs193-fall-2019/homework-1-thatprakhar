@@ -7,7 +7,7 @@
 
 - _The TA's_
 - The CourseWork
-- _My ClAsSmAtEs_
+- My Classmates
 
 
 
