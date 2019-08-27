@@ -2,7 +2,6 @@
 
 
 ```markdown
-
  # Things I love about CS193
 
 - _The TA's_
